@@ -1,0 +1,23 @@
+body {
+    background-image: url(../images/background.png);
+}
+
+#crystal1 {
+    height: 100px;
+    width: 100px;
+}
+
+#crystal2 {
+    height: 100px;
+    width: 100px;
+}
+
+#crystal3 {
+    height: 100px;
+    width: 100px;
+}
+
+#crystal4 {
+    height: 100px;
+    width: 100px;
+}
